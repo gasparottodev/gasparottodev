@@ -1,9 +1,9 @@
-<h1 align="center">Matheus Gasparotto</h1>
-<h3 align="center">Desenvolvedor Full Stack Sênior · Node.js · NestJS · Next.js · AWS</h3>
+<h1 align="right">Matheus Gasparotto</h1>
+<h3 align="right">Desenvolvedor Full Stack Sênior · Node.js · NestJS · Next.js · AWS</h3>
 
 ---
 
-💻 Desenvolvedor web com mais de 5 anos de experiência em back‑end e front‑end.  
+💻 Sou desenvolvedor web com mais de 5 anos de experiência em back‑end e front‑end.  
 Trabalho com Node.js, NestJS, microsserviços, serverless, React, Next.js e Tailwind CSS.  
 Experiência com testes (Jest, React Testing Library), CI/CD e observabilidade com ferramentas modernas.
 
