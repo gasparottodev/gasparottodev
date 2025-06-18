@@ -1,5 +1,5 @@
-<h1 align="right">Matheus Gasparotto</h1>
-<h3 align="right">Desenvolvedor Full Stack Sênior · Node.js · NestJS · Next.js · AWS</h3>
+<h1 align="left">Matheus Gasparotto</h1>
+<h3 align="left">Desenvolvedor Full Stack Sênior · Node.js · NestJS · Next.js · AWS</h3>
 
 ---
 
