@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Matheus Gasparotto</h1>
+<h3 align="center">Desenvolvedor Full Stack Sênior · Node.js · NestJS · Next.js · AWS</h3>
 
-<!--
-**gasparottodev/gasparottodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+💻 Desenvolvedor web com mais de 5 anos de experiência em back‑end e front‑end.  
+Trabalho com Node.js, NestJS, microsserviços, serverless, React, Next.js e Tailwind CSS.  
+Experiência com testes (Jest, React Testing Library), CI/CD e observabilidade com ferramentas modernas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Atualmente, foco em melhorar a performance de aplicações Node.js, atuando na redução de consumo de memória, otimização de queries e estabilidade de serviços.  
+Tenho domínio de Design Patterns e sigo princípios como SOLID e Clean Code para entregar código claro, performático e alinhado ao negócio.  
+Utilizo ferramentas como Prometheus, Grafana, Datadog e OpenTelemetry para monitorar e gerar valor contínuo com cada entrega.
+
+---
+
+### 🛠️ Tecnologias Principais
+
+**Back-end:**  
+🟩 Node.js · 🔴 NestJS · ⚪ Express · 📡 REST · 🔁 GraphQL · 📨 Kafka · 🐰 RabbitMQ
+
+**Front-end:**  
+⚛️ React · ⬛ Next.js · 🎨 Tailwind CSS · ⚡ Vite · 🧩 Micro Frontends
+
+**Testes:**  
+🧪 Jest · 🔍 Supertest · 🧬 React Testing Library
+
+**Cloud & DevOps:**  
+☁️ AWS · 🐳 Docker · 🔁 GitHub Actions · 🛠️ Azure Pipelines
+
+**Monitoramento:**  
+📈 Prometheus · 📊 Grafana · 🔎 OpenTelemetry · 🧠 Datadog · 🐞 Sentry
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusgasparotto)
+[![Email](https://img.shields.io/badge/-gasparotto.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gasparotto.dev@gmail.com)
